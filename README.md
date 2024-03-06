@@ -1,2 +1,2 @@
 # Modejs-web
-Frontend mode.js document website.
+Frontend manner.js document website.
